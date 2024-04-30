@@ -1,0 +1,60 @@
+.gradient-background {
+  background: linear-gradient(150deg, #c94756, #cea97f, #8b4513);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@media (max-width: 991px) {
+  .container-md {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+  }
+  .display-5 {
+    text-align: center;
+  }
+  .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+  }
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+h1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.btn-outline-dark {
+  border-color: #c86c61 !important;
+}
+
+.btn-dark {
+  background-color: #c86c61 !important;
+  border-color: #c86c61 !important;
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 100px;
+  border-radius: 50%;
+}
