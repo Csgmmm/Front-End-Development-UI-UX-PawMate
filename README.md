@@ -1,6 +1,6 @@
 # Project: PawMate
 
-This project was conceived during a Web Development Bootcamp by Dr. Angela Yu, that created Tindog, an app inspired by the popular dating platform Tinder. Adding a playful twist, this app focuses on our furry friends – dogs! Subsequently, **I've rebranded the project with a new name, logo and a UI/UX app design.**
+This project was conceived during a Web Development Bootcamp by Dr. Angela Yu, that created Tindog, an app inspired by the popular dating platform Tinder. This project focuses on developing a website utilizing Bootstrap, Flexbox, CSS, and HTML. Subsequently, **I've rebranded the project with a new name, logo and a created UI/UX app design - PawMate.**
 
 ## What is PawMate?
 With PawMate, dogs can have profiles, and "swipe right" to express interest in making new canine friends, setting up playdates, arranging walks, or finding a compatible mate for breeding purposes, PawMate ensures that every pup and their owner find exactly what they're looking for.
